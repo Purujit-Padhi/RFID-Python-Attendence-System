@@ -26,11 +26,18 @@ Excel (xlsx/csv file support for bulk operations)
 📌 Use Case
 Perfect for educational institutions looking to automate and digitize their attendance system with minimal hardware.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
-
-
-
--> Project Structure
+-> Project Structure and Functionality
 
 ├── (Admin) Attendence Management.py     # Admin GUI for managing classes, students, tags
 ├── (Run) Attendence Management.py       # Run this to start taking live attendance
