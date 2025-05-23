@@ -19,7 +19,7 @@ data_path = get_data_path()
 register_dir = os.path.join(data_path, "Attendence Folder")
 template_file_path = os.path.join(data_path, "Template", "template.xlsx")
 json_db_path = os.path.join(data_path, "Template", "Db.json")
-icon_file = os.path.join(data_path, "Template", "icon.ico")
+icon_file = os.path.join(data_path, "Template", "icon.ico") # U have to add the icon file in the data folder
 
 # Function to read UID from Arduino via Serial
 def get_uid_from_arduino(com_port):
