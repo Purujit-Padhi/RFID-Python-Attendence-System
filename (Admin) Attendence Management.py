@@ -14,12 +14,12 @@ from CTkMessagebox import CTkMessagebox
 import helper as Create_Excels
 
 
-company_name = "Kiddy Kids Premium School"
+company_name = "Company Name"
 color_theme = "light"
 
 
-VALID_USERNAME = "kkps"
-VALID_PASSWORD = "14.11.2009"
+VALID_USERNAME = "admin"
+VALID_PASSWORD = "admin123"
 image_path = f"{Create_Excels.data_path}\\Template\\class.png"  # Replace with your image file path for create class window
 
 ctk.set_appearance_mode(color_theme)
