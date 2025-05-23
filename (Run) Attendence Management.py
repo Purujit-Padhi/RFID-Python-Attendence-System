@@ -7,16 +7,8 @@ from datetime import datetime
 import os
 
 
-'''
---> To Update the data in google drive
-1. Install Google Drive - https://support.google.com/a/users/answer/13022292?hl=en
-2. 
-'''
-
-
-
 # Initial Values
-company_name = "Kiddy Kids Premium School"
+company_name = "Company Name"
 color_theme = "light"
 
 
