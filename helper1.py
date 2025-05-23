@@ -28,7 +28,7 @@ def get_data_directory():
 data_directory = get_data_directory() + "\\"
 attendance_folder = f"{data_directory}Attendence Folder\\"
 json_database_file = f"{data_directory}Template\\Db.json"
-icon_file = f"{data_directory}Template\\icon.ico"
+icon_file = f"{data_directory}Template\\icon.ico" # U have to add the icon file in the data folder
 # -------------------- Student Data Utilities --------------------
 
 def get_student_details(tag_id):
